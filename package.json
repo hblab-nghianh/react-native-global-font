@@ -1,6 +1,6 @@
 {
   "name": "react-native-global-font",
-  "version": "1.0.3",
+  "version": "2.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -15,8 +15,5 @@
   "bugs": {
     "url": "https://github.com/nguyenhuynghia/react-native-global-font/issues"
   },
-  "homepage": "https://github.com/nguyenhuynghia/react-native-global-font#readme",
-  "dependencies": {
-    "lodash.wrap": "^4.1.1"
-  }
+  "homepage": "https://github.com/nguyenhuynghia/react-native-global-font#readme"
 }
